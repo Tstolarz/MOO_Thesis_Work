@@ -6,11 +6,16 @@ This is more of an archive then a guided source for where to find what in this r
 Code for:
 
 Creating 10 year averaged divergence + speed contour maps can be found in Divergence_Plots/10yr/total/all_year_averages.ipynb
+
 Creating 10 year averaged U + V variance can be found in Divergence_Plots/10yr/total/10yr_t_var.ipynb
+
 Creating 10 year averaged monthly figures can be found in Divergence_Plots/10yr/months
+
 Creating 10 year averaged seasonal figures can be found in Divergence_Plots/10yr/seasons
 
+
 Creating yearly divergence figures can be found in Divergence_Plots/[respective year]
+
 
 Autocorrelation analysis code can be found in Divergence_Plots/autocorrelation
 
